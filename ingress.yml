@@ -4,7 +4,7 @@ metadata:
   name: ingress-reddit-app
 spec:
   rules:
-  - host: "domain.com"
+  - host: "rohitjain.online"
     http:
       paths:
       - pathType: Prefix
@@ -14,7 +14,7 @@ spec:
             name: reddit-clone-service
             port:
               number: 3000
-  - host: "*.domain.com"
+  - host: "*.rohitjain.online"
     http:
       paths:
       - pathType: Prefix
