@@ -1,3 +1,8 @@
+![reddit-with-ssl](https://github.com/user-attachments/assets/2fb06ba8-a1b0-4a42-be51-5da8926c1b19)
+![reddit-with-jenkins](https://github.com/user-attachments/assets/a9292770-c7d0-4d07-8d1b-e8db3a01c8e8)
+![reddit-with-sonarqube](https://github.com/user-attachments/assets/ccf78ca8-b832-4737-ade7-d40159bdf1fd)
+
+
 # 🚀 Reddit Clone Deployment Using Jenkins CI/CD, DevSecOps & EKS
 
 This project demonstrates how to build and deploy a **Reddit Clone App** using a complete **CI/CD pipeline** with Jenkins, Docker, SonarQube, Trivy, Dependency-Check, and deploy it to AWS EKS with Kubernetes and Ingress.
